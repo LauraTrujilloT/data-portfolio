@@ -10,6 +10,10 @@ This Portfolio consists of many projects illustrating the work I've done in orde
 
 ---
 
+# DS4A Project - SECOP
+
+![image_secop1](https://github.com/LauraTrujilloT/data-portfolio/blob/main/img/secop-page1.png)
+
 # Sevem & Commander Map
 
 ![image_dsaf](https://github.com/LauraTrujilloT/data-portfolio/blob/main/img/healpy_map.png)
