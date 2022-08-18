@@ -9,6 +9,9 @@ This Portfolio consists of many projects illustrating the work I've done in orde
 - [Sevem & Commander Map](d)
 
 ---
+# UFO Sightings Dashboard
+
+![image_ufo](https://github.com/LauraTrujilloT/data-portfolio/blob/main/img/ufo-sightings.png)
 
 # DS4A Project - SECOP
 
