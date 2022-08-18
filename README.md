@@ -12,4 +12,4 @@ This Portfolio consists of many projects illustrating the work I've done in orde
 
 # Sevem & Commander Map
 
-![image]('https://github.com/LauraTrujilloT/data-portfolio/blob/main/img/healpy_map.pngng')
+![image]('https://github.com/LauraTrujilloT/data-portfolio/blob/main/img/healpy_map.png')
